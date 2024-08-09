@@ -6,10 +6,10 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          WIT LAB <span className="heart">♥️</span> React
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          WIT ACADEMY AND WIT YOUTUBE CHANNEL
         </p>
         <p>
           <a
